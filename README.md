@@ -22,10 +22,10 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 **🥳 目前的业余项目（正在整理上传中……）：**
--  **逆五子棋 (Inverse Gomoku)**：包含启发式AI，katago权重（hzy的KataGo相关代码）与图形界面（GUI）。
--  **EI-RNN 进化算法贪吃蛇 (Evolving EI-RNN Snake)**：利用进化算法训练兴奋抑制-循环神经网络训练贪吃蛇的实验项目。
--  **坦克大战神经网络训练环境 (Tank Battle RL Env)**：为神经网络训练搭建的坦克大战训练环境。
+-  **EI-RNN 进化算法贪吃蛇 (Evolving EI-RNN Snake)【已上传】**：利用进化算法训练兴奋抑制-循环神经网络训练贪吃蛇的实验项目。
 -  **硅基沉默整数平衡化定理 (Silicon-Silence's Balance Integer Theorem)**：相关验证与应用代码。
+-  **逆五子棋 (Inverse Gomoku)**：包含启发式AI，katago权重（hzy的KataGo相关代码）与图形界面（GUI）。
+-  **坦克大战神经网络训练环境 (Tank Battle RL Env)**：为神经网络训练搭建的坦克大战训练环境。
 
 > 💡 *“写出bug的是AI，与我何干？”*
 
@@ -54,10 +54,10 @@ My main hobbyist interests focus on two directions: **strategy/board games** and
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 **🥳 Current Hobby Projects (Sorting and uploading...):**
-- **Inverse Gomoku**: Includes heuristic AI, KataGo weights (hzy's related KataGo code), and a GUI.
-- **Evolving EI-RNN Snake**: An experimental project using evolutionary algorithms to train an excitatory-inhibitory recurrent neural network to play Snake.
-- **Tank Battle RL Env**: A Tank Battle training environment built for neural network (Reinforcement Learning) training.
+- **Evolving EI-RNN Snake【Uploaded】**: An experimental project using evolutionary algorithms to train an excitatory-inhibitory recurrent neural network to play Snake.
 - **Silicon-Silence's Balance Integer Theorem**: Verification and application code.
+- **Inverse Gomoku**: Includes heuristic AI, KataGo weights (hzy's related KataGo code), and a GUI.
+- **Tank Battle RL Env**: A Tank Battle training environment built for neural network (Reinforcement Learning) training.
 
 > 💡 *"The AI writes the bugs, none of my business."*
 
